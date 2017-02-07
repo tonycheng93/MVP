@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.sky.mvp.MvpApplication;
 import com.sky.mvp.injection.component.ActivityComponent;
 import com.sky.mvp.injection.component.ConfigPersistentComponent;
+import com.sky.mvp.injection.component.DaggerConfigPersistentComponent;
 import com.sky.mvp.injection.module.ActivityModule;
 
 import java.util.HashMap;

@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 
 import com.sky.mvp.injection.component.ApplicationComponent;
+import com.sky.mvp.injection.component.DaggerApplicationComponent;
 import com.sky.mvp.injection.module.ApplicationModule;
 
 import timber.log.Timber;
